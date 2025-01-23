@@ -16,7 +16,7 @@ This script fetches OHLC (Open, High, Low, Close) data for a specified cryptocur
 ## Requirements
 
 - Python 3.8 or higher
-- A Kraken API key and secret, setup instructions (here){https://support.kraken.com/hc/en-us/articles/360000919966-How-to-create-an-API-key}
+- A Kraken API key and secret, setup instructions [here](https://support.kraken.com/hc/en-us/articles/360000919966-How-to-create-an-API-key)
 (Note all the dependencies are included in the requirements.txt file)
 
 ---
